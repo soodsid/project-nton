@@ -1,1 +1,1 @@
-ipykerne
+ipykernel
